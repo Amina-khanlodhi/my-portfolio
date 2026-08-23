@@ -14,16 +14,16 @@ document.getElementById('projects-mount').innerHTML = `
         </div>
         <div class="project-body">
           <p class="project-role">Frontend Internship Project</p>
-          <h3>TaskFlow — Kanban Board</h3>
-          <p>A drag-and-drop task board with columns, cards and local persistence, built during my internship at CodeAlpha.</p>
+          <h3>Web Development Module</h3>
+          <p>A beginner-friendly web development project demonstrating the use of HTML and CSS to create a structured and styled webpage.</p>
           <div class="project-tags">
             <span class="project-tag">JavaScript</span>
             <span class="project-tag">CSS Grid</span>
             <span class="project-tag">LocalStorage</span>
           </div>
           <div class="project-links">
-            <a href="#" class="project-link"><i class="fa-solid fa-arrow-up-right-from-square"></i> Live demo</a>
-            <a href="https://github.com/amina-lodhi" target="_blank" rel="noopener noreferrer" class="project-link"><i class="fa-brands fa-github"></i> Code</a>
+            <a href="#" https://amina-khanlodhi.github.io/Module-1/"><i class="fa-solid fa-arrow-up-right-from-square"></i> Live demo</a>
+            <a href="https://github.com/Amina-khanlodhi/Module-1" target="_blank" rel="noopener noreferrer" class="project-link"><i class="fa-brands fa-github"></i> Code</a>
           </div>
         </div>
       </article>
@@ -36,16 +36,16 @@ document.getElementById('projects-mount').innerHTML = `
         </div>
         <div class="project-body">
           <p class="project-role">Web Development Internship Project</p>
-          <h3>WeatherNow</h3>
-          <p>A responsive weather app pulling live conditions from a public API, built at CodeClause with a focus on clean API handling.</p>
+          <h3>COVID-19 Awareness Website</h3>
+          <p>A responsive informational website designed to provide users with essential information and awareness about COVID-19. </p>
           <div class="project-tags">
             <span class="project-tag">REST API</span>
             <span class="project-tag">JavaScript</span>
             <span class="project-tag">Responsive UI</span>
           </div>
           <div class="project-links">
-            <a href="#" class="project-link"><i class="fa-solid fa-arrow-up-right-from-square"></i> Live demo</a>
-            <a href="https://github.com/amina-lodhi" target="_blank" rel="noopener noreferrer" class="project-link"><i class="fa-brands fa-github"></i> Code</a>
+            <a href="#"https://amina-khanlodhi.github.io/Covid-19/ "><i class="fa-solid fa-arrow-up-right-from-square"></i> Live demo</a>
+            <a href="https://github.com/Amina-khanlodhi/Covid-19" target="_blank" rel="noopener noreferrer" class="project-link"><i class="fa-brands fa-github"></i> Code</a>
           </div>
         </div>
       </article>
@@ -57,17 +57,17 @@ document.getElementById('projects-mount').innerHTML = `
           <i class="fa-solid fa-people-group"></i>
         </div>
         <div class="project-body">
-          <p class="project-role">Community Initiative</p>
-          <h3>Digital Literacy Landing Pages</h3>
-          <p>Accessible, mobile-first landing pages built for community digital-literacy programs at Digital Empowerment Pakistan.</p>
+          <p class="project-role">Internship-project</p>
+          <h3>CodeAlpha Front-End Project</h3>
+          <p>A front-end development project created as part of the CodeAlpha internship, focusing on building a clean and user-friendly web interface.</p>
           <div class="project-tags">
             <span class="project-tag">HTML5</span>
             <span class="project-tag">Accessibility</span>
             <span class="project-tag">Bootstrap</span>
           </div>
           <div class="project-links">
-            <a href="#" class="project-link"><i class="fa-solid fa-arrow-up-right-from-square"></i> Live demo</a>
-            <a href="https://github.com/amina-lodhi" target="_blank" rel="noopener noreferrer" class="project-link"><i class="fa-brands fa-github"></i> Code</a>
+            <a href="https://amina-khanlodhi.github.io/Code-Alpha-task-3/" class="project-link"><i class="fa-solid fa-arrow-up-right-from-square"></i> Live demo</a>
+            <a href="https://github.com/Amina-khanlodhi/Code-Alpha-task-3" target="_blank" rel="noopener noreferrer" class="project-link"><i class="fa-brands fa-github"></i> Code</a>
           </div>
         </div>
       </article>
