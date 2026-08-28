@@ -37,8 +37,14 @@ html[data-theme="light"]{
   --shadow:    0 40px 80px -35px rgba(60,40,20,.22);
   --grain-op:  .035;
 }
+html,
+body {
+    width: 100%;
+    overflow-x: hidden;
+}
 
-*{ box-sizing: border-box; }
+*{
+   box-sizing: border-box; }
 html{ scroll-behavior: smooth; }
 body{
   background: var(--bg);
@@ -734,4 +740,9 @@ html[data-theme="light"] .theme-toggle .moon-icon{ display:inline; }
 
 @media (max-width: 640px){
   .section{ padding: 90px 0; }
+}
+/* Resosnive for mobile devices 
+*/
+@media (max-width: 768px){
+  .section{ padding: 70px 0; }
 }
