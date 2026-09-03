@@ -66,8 +66,8 @@ document.getElementById('projects-mount').innerHTML = `
             <span class="project-tag">Bootstrap</span>
           </div>
           <div class="project-links">
-            <a href="https://amina-khanlodhi.github.io/Code-Alpha-task-3/" class="project-link"><i class="fa-solid fa-arrow-up-right-from-square"></i> Live demo</a>
-            <a href="https://github.com/Amina-khanlodhi/Code-Alpha-task-3" target="_blank" rel="noopener noreferrer" class="project-link"><i class="fa-brands fa-github"></i> Code</a>
+            <a href="https://amina-khanlodhi.github.io/Nova/" class="project-link"><i class="fa-solid fa-arrow-up-right-from-square"></i> Live demo</a>
+            <a href="https://amina-khanlodhi.github.io/Nova/" target="_blank" rel="noopener noreferrer" class="project-link"><i class="fa-brands fa-github"></i> Code</a>
           </div>
         </div>
       </article>
